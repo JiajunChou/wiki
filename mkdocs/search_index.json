@@ -1,0 +1,39 @@
+{
+    "docs": [
+        {
+            "location": "/",
+            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "title": "Home"
+        },
+        {
+            "location": "/#welcome-to-mkdocs",
+            "text": "For full documentation visit  mkdocs.org .",
+            "title": "Welcome to MkDocs"
+        },
+        {
+            "location": "/#commands",
+            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.",
+            "title": "Commands"
+        },
+        {
+            "location": "/#project-layout",
+            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.",
+            "title": "Project layout"
+        },
+        {
+            "location": "/js/",
+            "text": "javascript document\n\n\nconfirm\n\n\n\u56de\u50b3\u503c: \u78ba\u5b9a true, \u53d6\u6d88 false\n\n\nvar flag=confirm(\"\u78ba\u5b9a\u53d6\u5f97\u6848\u4ef6\u806f\u7d61\u8cc7\u8a0a\u4e26\u767c\u9001\u61c9\u5fb5\u4fe1\uff1f(\u4e3b\u52d5\u806f\u7e6b\u53ef\u63d0\u9ad8\u9762\u8a66\u6a5f\u6703)\");",
+            "title": "Javascript"
+        },
+        {
+            "location": "/js/#javascript-document",
+            "text": "",
+            "title": "javascript document"
+        },
+        {
+            "location": "/js/#confirm",
+            "text": "\u56de\u50b3\u503c: \u78ba\u5b9a true, \u53d6\u6d88 false  var flag=confirm(\"\u78ba\u5b9a\u53d6\u5f97\u6848\u4ef6\u806f\u7d61\u8cc7\u8a0a\u4e26\u767c\u9001\u61c9\u5fb5\u4fe1\uff1f(\u4e3b\u52d5\u806f\u7e6b\u53ef\u63d0\u9ad8\u9762\u8a66\u6a5f\u6703)\");",
+            "title": "confirm"
+        }
+    ]
+}
