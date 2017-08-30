@@ -2,4 +2,4 @@ site_name: wiki
 pages:
     - Home: index.md
     - Javascript: js.md
-theme: msterial
+theme: 'material'
