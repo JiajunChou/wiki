@@ -3,3 +3,5 @@ pages:
     - Home: index.md
     - Javascript: js.md
 theme: 'material'
+markdown_extensions:
+    - pymdownx.tasklist(custom_checkbox=true)
