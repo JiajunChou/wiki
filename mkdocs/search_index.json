@@ -59,6 +59,26 @@
             "location": "/wishList/#java",
             "text": "Algorithms and Data Structures in Java   6 hr  Build 6 GUI applications in Java and learn how to program like a pro  Search Algorithms  Binary Search Theory  Binary Search Application  Data Structures  Linked List B Theory  Stack Theory  Updating the Car Manager Application  Sorting Algorithms  Sort Application     Java Object-Oriented Programming : Build a Quiz Application   2.5 hr  Reference Types  Classes and Objects  Internal Memory Organization of Objects  Variable Scopes  \"this\" reference variable  Overloaded Constructors  this() Constructor Call  Project: Quiz Application     Java Generic Programming: Parametric Polymorphism   2 hr  Generic Method, Generic Container, Java Parametric Polymorphism, Object Class in Java, Java Generics  Case Study: Generic Sorting program  Case Study: Generic Matrix",
             "title": "Java"
+        },
+        {
+            "location": "/wishList2/",
+            "text": "JavaScript\n\n\nJavaScript \u7279\u6027\n\n\n\n\n\u539f\u578b\u57fa\u790e\u7269\u4ef6\u5c0e\u5411\n\n\nCallback \u56de\u8abf\n\n\nClosure \u9589\u5305\n\n\n\u7570\u6b65\u7a0b\u5f0f\u8a2d\u8a08\u8207\u4e8b\u4ef6\u8ff4\u5708\n\n\n\u4e8b\u4ef6\u6a21\u578b\u8655\u7406\n\n\nPromise \u627f\u8afe\n\n\n\n\nReference: \nhttps://eyesofkids.gitbooks.io/javascript-start-from-es6/content/part4/\n\n\nMDN\n\n\n\n\n\u8a18\u61b6\u9ad4\u7ba1\u7406\n\n\n\u4f75\u884c\u6a21\u7d44\u548c\u4e8b\u4ef6\u5faa\u74b0",
+            "title": "Wish List (JS)"
+        },
+        {
+            "location": "/wishList2/#javascript",
+            "text": "",
+            "title": "JavaScript"
+        },
+        {
+            "location": "/wishList2/#javascript_1",
+            "text": "\u539f\u578b\u57fa\u790e\u7269\u4ef6\u5c0e\u5411  Callback \u56de\u8abf  Closure \u9589\u5305  \u7570\u6b65\u7a0b\u5f0f\u8a2d\u8a08\u8207\u4e8b\u4ef6\u8ff4\u5708  \u4e8b\u4ef6\u6a21\u578b\u8655\u7406  Promise \u627f\u8afe   Reference:  https://eyesofkids.gitbooks.io/javascript-start-from-es6/content/part4/",
+            "title": "JavaScript \u7279\u6027"
+        },
+        {
+            "location": "/wishList2/#mdn",
+            "text": "\u8a18\u61b6\u9ad4\u7ba1\u7406  \u4f75\u884c\u6a21\u7d44\u548c\u4e8b\u4ef6\u5faa\u74b0",
+            "title": "MDN"
         }
     ]
 }
